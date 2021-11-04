@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/pickem/static/css/main.a617e044.chunk.css",
+    "main.js": "/github.io/pickem/static/js/main.f14b964d.chunk.js",
+    "main.js.map": "/github.io/pickem/static/js/main.f14b964d.chunk.js.map",
+    "runtime-main.js": "/github.io/pickem/static/js/runtime-main.0c53b712.js",
+    "runtime-main.js.map": "/github.io/pickem/static/js/runtime-main.0c53b712.js.map",
+    "static/js/2.ba19889e.chunk.js": "/github.io/pickem/static/js/2.ba19889e.chunk.js",
+    "static/js/2.ba19889e.chunk.js.map": "/github.io/pickem/static/js/2.ba19889e.chunk.js.map",
+    "static/js/3.a2c3897a.chunk.js": "/github.io/pickem/static/js/3.a2c3897a.chunk.js",
+    "static/js/3.a2c3897a.chunk.js.map": "/github.io/pickem/static/js/3.a2c3897a.chunk.js.map",
+    "index.html": "/github.io/pickem/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github.io/pickem/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ba19889e.chunk.js.LICENSE.txt": "/github.io/pickem/static/js/2.ba19889e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c53b712.js",
+    "static/js/2.ba19889e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f14b964d.chunk.js"
+  ]
+}
